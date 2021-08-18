@@ -1,6 +1,6 @@
 /*
 Projeto utilizando a biblioteca twit para
-facilitar a utilização de api e funlçoes do twitter
+facilitar a utilização de api e funçoes do twitter
 */
 var twit = require("twit");
 
